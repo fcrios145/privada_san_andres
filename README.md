@@ -27,4 +27,4 @@
     * Mandar foto del area que se limpio de ahi de la casa
 
 
-
+* Comentario de que benja quitara las enredaderas porque le generan humedad y salitre
