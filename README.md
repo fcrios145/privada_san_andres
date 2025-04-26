@@ -10,6 +10,7 @@
 * Hacer reporte de Marzo y Abril
 * Mandar hacer letrero de se Prohibe rentas vacacionales
 * Imprimir convocatoria en grande
+    * En una sola lona, ponerle 2 4 y 7 pm ( no imprimiar la parte de att el comite, que no salgan los nombres)
 
 
 * Tema de las letras de San Andres
