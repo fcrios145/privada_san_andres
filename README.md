@@ -24,7 +24,7 @@
     * Imprimir lista de asistencias las 3
     * los 3 Orden del dia
     * Las 3 convocatorias firmadas, las que se mandaron al grupo
-    * Mandar foto del area que se limpio de ahi de la casa
+- [x] Mandar foto del area que se limpio de ahi de la casa
 
 
 * Comentario de que benja quitara las enredaderas porque le generan humedad y salitre
