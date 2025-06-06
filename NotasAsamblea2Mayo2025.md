@@ -7,9 +7,10 @@ Analizar y actualizar el reglamento general del condominio.
 -	Se presenta el reglamento y se inicia a analizar por secciones pidiendo sugerencia de modificaciones.
 
 
-
 •	Reportar como ingresos las multas cobradas
+
 •	Se fueron 5 multas en el mes por cantidades tales y cuales 
+
 Sin casa  - 19 a favor
 •	Cuantas oportunidades de morosidad (1) para empezar a bloquear accesos 19 a favor
 •	El desconocimiento de las reglas no te exime de culpa
